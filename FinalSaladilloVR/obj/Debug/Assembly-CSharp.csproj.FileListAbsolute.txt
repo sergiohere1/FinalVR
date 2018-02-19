@@ -1,0 +1,2 @@
+C:\Users\Usuario\Documents\RepositoriosUnity\FinalSaladilloVR\FinalSaladilloVR\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\RepositoriosUnity\FinalSaladilloVR\FinalSaladilloVR\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

@@ -11,45 +11,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MovementDisc.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs">
+      <file leaf-file-name="ButtonGazeCick.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonGazeCick.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="22" selection-end-column="31" />
+            <state relative-caret-position="554">
+              <caret line="67" column="5" lean-forward="false" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
               <folding>
-                <marker date="1519028836726" expanded="false" signature="6:78" ph="..." />
-                <marker date="1519028836726" expanded="true" signature="121:1147" ph="{...}" />
-                <marker date="1519028836726" expanded="true" signature="125:194" ph="///  ... " />
-                <marker date="1519028836726" expanded="true" signature="227:278" ph="///  ... " />
-                <marker date="1519028836726" expanded="true" signature="311:408" ph="/// Para indicar si el usuario está mirando directamente el disco. ... " />
-                <marker date="1519028836726" expanded="true" signature="459:538" ph="///  ... " />
-                <marker date="1519028836726" expanded="true" signature="617:624" ph="{...}" />
-                <marker date="1519028836726" expanded="true" signature="679:686" ph="{...}" />
-                <marker date="1519028836726" expanded="true" signature="715:938" ph="{...}" />
-                <marker date="1519028836726" expanded="true" signature="733:935" ph="{...}" />
-                <marker date="1519028836726" expanded="true" signature="785:931" ph="{...}" />
-                <marker date="1519028836726" expanded="true" signature="941:1028" ph="///  ... " />
-                <marker date="1519028836726" expanded="true" signature="1062:1086" ph="{...}" />
-                <marker date="1519028836726" expanded="true" signature="1120:1145" ph="{...}" />
+                <marker date="1519112469882" expanded="true" signature="6:100" ph="..." />
+                <marker date="1519112469882" expanded="true" signature="145:1957" ph="{...}" />
+                <marker date="1519112469882" expanded="true" signature="149:232" ph="/// Tiempo que tardará en activarse el temporizador. ... " />
+                <marker date="1519112469882" expanded="true" signature="270:347" ph="/// Indica si el puntero está sobre el objeto. ... " />
+                <marker date="1519112469882" expanded="true" signature="380:451" ph="/// Indica si la acción se ha realizado. ... " />
+                <marker date="1519112469882" expanded="true" signature="503:510" ph="{...}" />
+                <marker date="1519112469882" expanded="true" signature="565:1230" ph="{...}" />
+                <marker date="1519112469882" expanded="true" signature="569:810" ph="/* Si el usuario está mirando el objeto y el temporizador ... */" />
+                <marker date="1519112469882" expanded="true" signature="935:1227" ph="{...}" />
+                <marker date="1519112469882" expanded="true" signature="1012:1101" ph="/* Desactivamos el contador de tiempo del cursor, para ... */" />
+                <marker date="1519112469882" expanded="true" signature="1234:1372" ph="/// Método que se llamará desde el EventTrigger PointerEnter (Cuando miremos el objeto que cambia de color) ... " />
+                <marker date="1519112469882" expanded="true" signature="1398:1676" ph="{...}" />
+                <marker date="1519112469882" expanded="true" signature="1680:1770" ph="/// Método que llamaremos desde el EventTrigger PointerExit ... " />
+                <marker date="1519112469882" expanded="true" signature="1794:1955" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MoveJoystick.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveJoystick.cs">
+      <file leaf-file-name="ConfigurationScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="0">
+              <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
               <folding>
-                <marker date="1519030810507" expanded="false" signature="6:78" ph="..." />
-                <marker date="1519030810507" expanded="true" signature="122:1007" ph="{...}" />
-                <marker date="1519030810507" expanded="true" signature="125:194" ph="/// Velocidad máxima de desplazamiento ... " />
-                <marker date="1519030810507" expanded="true" signature="227:278" ph="/// Fuerza de empuje ... " />
-                <marker date="1519030810507" expanded="true" signature="311:390" ph="/// Rigidbody que queremos mover. El del player. ... " />
-                <marker date="1519030810507" expanded="true" signature="443:490" ph="{...}" />
-                <marker date="1519030810507" expanded="true" signature="519:1005" ph="{...}" />
-                <marker date="1519030810507" expanded="true" signature="944:1002" ph="{...}" />
+                <marker date="1519115766344" expanded="false" signature="6:100" ph="..." />
+                <marker date="1519115766344" expanded="true" signature="151:485" ph="{...}" />
+                <marker date="1519115766344" expanded="true" signature="200:421" ph="{...}" />
+                <marker date="1519115766344" expanded="true" signature="476:483" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SaveScript.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+              <folding>
+                <marker date="1519115562889" expanded="true" signature="6:100" ph="..." />
+                <marker date="1519115562889" expanded="true" signature="141:936" ph="{...}" />
+                <marker date="1519115562889" expanded="true" signature="145:233" ph="/// Objeto con la dirección IP introducida por el usuario ... " />
+                <marker date="1519115562889" expanded="true" signature="304:311" ph="{...}" />
+                <marker date="1519115562889" expanded="true" signature="366:373" ph="{...}" />
+                <marker date="1519115562889" expanded="true" signature="376:599" ph="/// Método que se ejecuta cuando se pulsa el botón save ... " />
+                <marker date="1519115562889" expanded="true" signature="620:934" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SetButtonText.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SetButtonText.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+              <folding>
+                <marker date="1519117596799" expanded="true" signature="6:100" ph="..." />
+                <marker date="1519117596799" expanded="true" signature="144:408" ph="{...}" />
+                <marker date="1519117596799" expanded="true" signature="239:291" ph="{...}" />
+                <marker date="1519117596799" expanded="true" signature="346:353" ph="{...}" />
+                <marker date="1519117596799" expanded="true" signature="375:406" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -59,21 +89,33 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonGazeCick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScrollDown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonClick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveJoystick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SetButtonText.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpeedScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/SpeedScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ScrollDown.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveJoystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SpeedScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonGazeCick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConfigurationScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SetButtonText.cs" />
       </list>
     </option>
   </component>
@@ -84,8 +126,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
+    <option name="x" value="1434" />
+    <option name="y" value="25" />
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
@@ -104,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -135,7 +178,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,7 +196,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" pid="7608" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -173,11 +215,14 @@
       <workItem from="1518699262145" duration="2273000" />
       <workItem from="1518766141232" duration="2571000" />
       <workItem from="1519025064721" duration="3673000" />
+      <workItem from="1519052437043" duration="449000" />
+      <workItem from="1519069564759" duration="36000" />
+      <workItem from="1519111298634" duration="4782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9235000" />
+    <option name="totallyTimeSpent" value="14502000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -194,23 +239,23 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19180088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39940387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -222,10 +267,216 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/SetButtonText.cs</url>
+          <line>14</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/SetButtonText.cs" initialLine="13">
+            <startOffsets>
+              <startOffset value="245" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="288" />
+            </endOffsets>
+          </properties>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <marker date="1519028836726" expanded="false" signature="6:78" ph="..." />
+            <marker date="1519028836726" expanded="true" signature="121:1147" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="125:194" ph="/// Velocidad máxima de desplazamiento ... " />
+            <marker date="1519028836726" expanded="true" signature="227:278" ph="/// Fuerza de empuje ... " />
+            <marker date="1519028836726" expanded="true" signature="311:408" ph="/// Para indicar si el usuario está mirando directamente el disco. ... " />
+            <marker date="1519028836726" expanded="true" signature="459:538" ph="/// Rigidbody que queremos mover. El del player. ... " />
+            <marker date="1519028836726" expanded="true" signature="617:624" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="679:686" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="715:938" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="733:935" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="785:931" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="941:1028" ph="/// Eventos a realizar para el evento de mirar al disco. ... " />
+            <marker date="1519028836726" expanded="true" signature="1062:1086" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="1120:1145" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveJoystick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <marker date="1519030810507" expanded="false" signature="6:78" ph="..." />
+            <marker date="1519030810507" expanded="true" signature="122:1007" ph="{...}" />
+            <marker date="1519030810507" expanded="true" signature="125:194" ph="/// Velocidad máxima de desplazamiento ... " />
+            <marker date="1519030810507" expanded="true" signature="227:278" ph="/// Fuerza de empuje ... " />
+            <marker date="1519030810507" expanded="true" signature="311:390" ph="/// Rigidbody que queremos mover. El del player. ... " />
+            <marker date="1519030810507" expanded="true" signature="443:490" ph="{...}" />
+            <marker date="1519030810507" expanded="true" signature="519:1005" ph="{...}" />
+            <marker date="1519030810507" expanded="true" signature="944:1002" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpeedScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <marker date="1518611708125" expanded="true" signature="0:202" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518611708125" expanded="false" signature="209:281" ph="..." />
+            <marker date="1518611708125" expanded="true" signature="324:1000" ph="{...}" />
+            <marker date="1518611708125" expanded="true" signature="567:625" ph="{...}" />
+            <marker date="1518611708125" expanded="true" signature="680:687" ph="{...}" />
+            <marker date="1518611708125" expanded="true" signature="780:846" ph="{...}" />
+            <marker date="1518611708125" expanded="true" signature="940:998" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="80" column="11" lean-forward="false" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+          <folding>
+            <marker date="1518766855746" expanded="true" signature="0:205" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518766855746" expanded="false" signature="212:306" ph="..." />
+            <marker date="1518766855746" expanded="true" signature="355:2348" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="359:435" ph="/// Objeto compartido para todos los scripts. ... " />
+            <marker date="1518766855746" expanded="true" signature="476:592" ph="/// Tiempo por defecto que vamos a tener que esperar para que el contador se rellene. ... " />
+            <marker date="1518766855746" expanded="true" signature="626:673" ph="/// Temporizador ... " />
+            <marker date="1518766855746" expanded="true" signature="702:777" ph="/// Componente Image de la Imagen de relleno ... " />
+            <marker date="1518766855746" expanded="true" signature="982:1230" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="1053:1148" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="1285:1956" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="1302:1664" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="1310:1518" ph="/* Se incrementa el temporizador y la porción del tiempo que ha tardado en renderizar ... */" />
+            <marker date="1518766855746" expanded="true" signature="1671:1799" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="1882:1953" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="1959:2112" ph="/// Inicia el temporizador, utilizando el tiempo indicado como parámetro. ... " />
+            <marker date="1518766855746" expanded="true" signature="2151:2214" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="2217:2273" ph="/// Para el temporizador. ... " />
+            <marker date="1518766855746" expanded="true" signature="2301:2346" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <marker date="1519028836726" expanded="false" signature="6:78" ph="..." />
+            <marker date="1519028836726" expanded="true" signature="121:1147" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="125:194" ph="/// Velocidad máxima de desplazamiento ... " />
+            <marker date="1519028836726" expanded="true" signature="227:278" ph="/// Fuerza de empuje ... " />
+            <marker date="1519028836726" expanded="true" signature="311:408" ph="/// Para indicar si el usuario está mirando directamente el disco. ... " />
+            <marker date="1519028836726" expanded="true" signature="459:538" ph="/// Rigidbody que queremos mover. El del player. ... " />
+            <marker date="1519028836726" expanded="true" signature="617:624" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="679:686" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="715:938" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="733:935" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="785:931" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="941:1028" ph="/// Eventos a realizar para el evento de mirar al disco. ... " />
+            <marker date="1519028836726" expanded="true" signature="1062:1086" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="1120:1145" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveJoystick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <marker date="1519030810507" expanded="false" signature="6:78" ph="..." />
+            <marker date="1519030810507" expanded="true" signature="122:1007" ph="{...}" />
+            <marker date="1519030810507" expanded="true" signature="125:194" ph="/// Velocidad máxima de desplazamiento ... " />
+            <marker date="1519030810507" expanded="true" signature="227:278" ph="/// Fuerza de empuje ... " />
+            <marker date="1519030810507" expanded="true" signature="311:390" ph="/// Rigidbody que queremos mover. El del player. ... " />
+            <marker date="1519030810507" expanded="true" signature="443:490" ph="{...}" />
+            <marker date="1519030810507" expanded="true" signature="519:1005" ph="{...}" />
+            <marker date="1519030810507" expanded="true" signature="944:1002" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="80" column="11" lean-forward="false" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+          <folding>
+            <marker date="1518766855746" expanded="true" signature="0:205" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518766855746" expanded="false" signature="212:306" ph="..." />
+            <marker date="1518766855746" expanded="true" signature="355:2348" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="359:435" ph="/// Objeto compartido para todos los scripts. ... " />
+            <marker date="1518766855746" expanded="true" signature="476:592" ph="/// Tiempo por defecto que vamos a tener que esperar para que el contador se rellene. ... " />
+            <marker date="1518766855746" expanded="true" signature="626:673" ph="/// Temporizador ... " />
+            <marker date="1518766855746" expanded="true" signature="702:777" ph="/// Componente Image de la Imagen de relleno ... " />
+            <marker date="1518766855746" expanded="true" signature="982:1230" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="1053:1148" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="1285:1956" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="1302:1664" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="1310:1518" ph="/* Se incrementa el temporizador y la porción del tiempo que ha tardado en renderizar ... */" />
+            <marker date="1518766855746" expanded="true" signature="1671:1799" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="1882:1953" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="1959:2112" ph="/// Inicia el temporizador, utilizando el tiempo indicado como parámetro. ... " />
+            <marker date="1518766855746" expanded="true" signature="2151:2214" ph="{...}" />
+            <marker date="1518766855746" expanded="true" signature="2217:2273" ph="/// Para el temporizador. ... " />
+            <marker date="1518766855746" expanded="true" signature="2301:2346" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <marker date="1519028836726" expanded="false" signature="6:78" ph="..." />
+            <marker date="1519028836726" expanded="true" signature="121:1147" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="125:194" ph="/// Velocidad máxima de desplazamiento ... " />
+            <marker date="1519028836726" expanded="true" signature="227:278" ph="/// Fuerza de empuje ... " />
+            <marker date="1519028836726" expanded="true" signature="311:408" ph="/// Para indicar si el usuario está mirando directamente el disco. ... " />
+            <marker date="1519028836726" expanded="true" signature="459:538" ph="/// Rigidbody que queremos mover. El del player. ... " />
+            <marker date="1519028836726" expanded="true" signature="617:624" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="679:686" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="715:938" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="733:935" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="785:931" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="941:1028" ph="/// Eventos a realizar para el evento de mirar al disco. ... " />
+            <marker date="1519028836726" expanded="true" signature="1062:1086" ph="{...}" />
+            <marker date="1519028836726" expanded="true" signature="1120:1145" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveJoystick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <marker date="1519030810507" expanded="false" signature="6:78" ph="..." />
+            <marker date="1519030810507" expanded="true" signature="122:1007" ph="{...}" />
+            <marker date="1519030810507" expanded="true" signature="125:194" ph="/// Velocidad máxima de desplazamiento ... " />
+            <marker date="1519030810507" expanded="true" signature="227:278" ph="/// Fuerza de empuje ... " />
+            <marker date="1519030810507" expanded="true" signature="311:390" ph="/// Rigidbody que queremos mover. El del player. ... " />
+            <marker date="1519030810507" expanded="true" signature="443:490" ph="{...}" />
+            <marker date="1519030810507" expanded="true" signature="519:1005" ph="{...}" />
+            <marker date="1519030810507" expanded="true" signature="944:1002" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1215">
@@ -257,20 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
-          <folding>
-            <marker date="1518768703746" expanded="true" signature="0:200" ph="/* Práctica: Pinball ... */" />
-            <marker date="1518768703746" expanded="true" signature="207:279" ph="..." />
-            <marker date="1518768703746" expanded="true" signature="323:2128" ph="{...}" />
-            <marker date="1518768703746" expanded="true" signature="673:680" ph="{...}" />
-            <marker date="1518768703746" expanded="true" signature="735:1402" ph="{...}" />
-            <marker date="1518768703746" expanded="true" signature="739:980" ph="/* Si el usuario está mirando el objeto y el temporizador ... */" />
-            <marker date="1518768703746" expanded="true" signature="1105:1399" ph="{...}" />
-            <marker date="1518768703746" expanded="true" signature="1182:1271" ph="/* Desactivamos el contador de tiempo del cursor, para ... */" />
-            <marker date="1518768703746" expanded="true" signature="1405:1543" ph="/// Método que se llamará desde el EventTrigger PointerEnter (Cuando miremos el objeto que cambia de color) ... " />
-            <marker date="1518768703746" expanded="true" signature="1569:1847" ph="{...}" />
-            <marker date="1518768703746" expanded="true" signature="1851:1941" ph="/// Método que llamaremos desde el EventTrigger PointerExit ... " />
-            <marker date="1518768703746" expanded="true" signature="1965:2126" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -322,13 +559,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpeedScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScrollDown.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -336,31 +566,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveJoystick.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="52" lean-forward="false" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+        <state relative-caret-position="465">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
           <folding>
-            <marker date="1518768703746" expanded="true" signature="0:200" ph="/* Práctica: Pinball ... */" />
-            <marker date="1518768703746" expanded="true" signature="207:279" ph="..." />
-            <marker date="1518768703746" expanded="true" signature="323:2128" ph="{...}" />
-            <marker date="1518768703746" expanded="true" signature="673:680" ph="{...}" />
-            <marker date="1518768703746" expanded="true" signature="735:1402" ph="{...}" />
-            <marker date="1518768703746" expanded="true" signature="739:980" ph="/* Si el usuario está mirando el objeto y el temporizador ... */" />
-            <marker date="1518768703746" expanded="true" signature="1105:1399" ph="{...}" />
-            <marker date="1518768703746" expanded="true" signature="1182:1271" ph="/* Desactivamos el contador de tiempo del cursor, para ... */" />
-            <marker date="1518768703746" expanded="true" signature="1405:1543" ph="/// Método que se llamará desde el EventTrigger PointerEnter (Cuando miremos el objeto que cambia de color) ... " />
-            <marker date="1518768703746" expanded="true" signature="1569:1847" ph="{...}" />
-            <marker date="1518768703746" expanded="true" signature="1851:1941" ph="/// Método que llamaremos desde el EventTrigger PointerExit ... " />
-            <marker date="1518768703746" expanded="true" signature="1965:2126" ph="{...}" />
+            <marker date="1519030810507" expanded="false" signature="6:78" ph="..." />
+            <marker date="1519030810507" expanded="true" signature="122:1007" ph="{...}" />
+            <marker date="1519030810507" expanded="true" signature="125:194" ph="/// Velocidad máxima de desplazamiento ... " />
+            <marker date="1519030810507" expanded="true" signature="227:278" ph="/// Fuerza de empuje ... " />
+            <marker date="1519030810507" expanded="true" signature="311:390" ph="/// Rigidbody que queremos mover. El del player. ... " />
+            <marker date="1519030810507" expanded="true" signature="443:490" ph="{...}" />
+            <marker date="1519030810507" expanded="true" signature="519:1005" ph="{...}" />
+            <marker date="1519030810507" expanded="true" signature="944:1002" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="47" column="20" lean-forward="false" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="80" column="11" lean-forward="false" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
           <folding>
             <marker date="1518766855746" expanded="true" signature="0:205" ph="/* Práctica: Pinball ... */" />
             <marker date="1518766855746" expanded="false" signature="212:306" ph="..." />
@@ -384,42 +610,154 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpeedScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="43" lean-forward="false" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding>
+            <marker date="1518611708125" expanded="true" signature="0:202" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518611708125" expanded="false" signature="209:281" ph="..." />
+            <marker date="1518611708125" expanded="true" signature="324:1000" ph="{...}" />
+            <marker date="1518611708125" expanded="true" signature="567:625" ph="{...}" />
+            <marker date="1518611708125" expanded="true" signature="680:687" ph="{...}" />
+            <marker date="1518611708125" expanded="true" signature="780:846" ph="{...}" />
+            <marker date="1518611708125" expanded="true" signature="940:998" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementDisc.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="22" selection-end-column="31" />
+        <state relative-caret-position="392">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
           <folding>
             <marker date="1519028836726" expanded="false" signature="6:78" ph="..." />
             <marker date="1519028836726" expanded="true" signature="121:1147" ph="{...}" />
-            <marker date="1519028836726" expanded="true" signature="125:194" ph="///  ... " />
-            <marker date="1519028836726" expanded="true" signature="227:278" ph="///  ... " />
+            <marker date="1519028836726" expanded="true" signature="125:194" ph="/// Velocidad máxima de desplazamiento ... " />
+            <marker date="1519028836726" expanded="true" signature="227:278" ph="/// Fuerza de empuje ... " />
             <marker date="1519028836726" expanded="true" signature="311:408" ph="/// Para indicar si el usuario está mirando directamente el disco. ... " />
-            <marker date="1519028836726" expanded="true" signature="459:538" ph="///  ... " />
+            <marker date="1519028836726" expanded="true" signature="459:538" ph="/// Rigidbody que queremos mover. El del player. ... " />
             <marker date="1519028836726" expanded="true" signature="617:624" ph="{...}" />
             <marker date="1519028836726" expanded="true" signature="679:686" ph="{...}" />
             <marker date="1519028836726" expanded="true" signature="715:938" ph="{...}" />
             <marker date="1519028836726" expanded="true" signature="733:935" ph="{...}" />
             <marker date="1519028836726" expanded="true" signature="785:931" ph="{...}" />
-            <marker date="1519028836726" expanded="true" signature="941:1028" ph="///  ... " />
+            <marker date="1519028836726" expanded="true" signature="941:1028" ph="/// Eventos a realizar para el evento de mirar al disco. ... " />
             <marker date="1519028836726" expanded="true" signature="1062:1086" ph="{...}" />
             <marker date="1519028836726" expanded="true" signature="1120:1145" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveJoystick.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimation.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="570">
+          <caret line="67" column="5" lean-forward="false" selection-start-line="45" selection-start-column="4" selection-end-line="67" selection-end-column="5" />
           <folding>
-            <marker date="1519030810507" expanded="false" signature="6:78" ph="..." />
-            <marker date="1519030810507" expanded="true" signature="122:1007" ph="{...}" />
-            <marker date="1519030810507" expanded="true" signature="125:194" ph="/// Velocidad máxima de desplazamiento ... " />
-            <marker date="1519030810507" expanded="true" signature="227:278" ph="/// Fuerza de empuje ... " />
-            <marker date="1519030810507" expanded="true" signature="311:390" ph="/// Rigidbody que queremos mover. El del player. ... " />
-            <marker date="1519030810507" expanded="true" signature="443:490" ph="{...}" />
-            <marker date="1519030810507" expanded="true" signature="519:1005" ph="{...}" />
-            <marker date="1519030810507" expanded="true" signature="944:1002" ph="{...}" />
+            <marker date="1518768703746" expanded="true" signature="0:200" ph="/* Práctica: Pinball ... */" />
+            <marker date="1518768703746" expanded="false" signature="207:279" ph="..." />
+            <marker date="1518768703746" expanded="true" signature="323:2128" ph="{...}" />
+            <marker date="1518768703746" expanded="true" signature="673:680" ph="{...}" />
+            <marker date="1518768703746" expanded="true" signature="735:1402" ph="{...}" />
+            <marker date="1518768703746" expanded="true" signature="739:980" ph="/* Si el usuario está mirando el objeto y el temporizador ... */" />
+            <marker date="1518768703746" expanded="true" signature="1105:1399" ph="{...}" />
+            <marker date="1518768703746" expanded="true" signature="1182:1271" ph="/* Desactivamos el contador de tiempo del cursor, para ... */" />
+            <marker date="1518768703746" expanded="true" signature="1405:1543" ph="/// Método que se llamará desde el EventTrigger PointerEnter (Cuando miremos el objeto que cambia de color) ... " />
+            <marker date="1518768703746" expanded="true" signature="1569:1847" ph="{...}" />
+            <marker date="1518768703746" expanded="true" signature="1851:1941" ph="/// Método que llamaremos desde el EventTrigger PointerExit ... " />
+            <marker date="1518768703746" expanded="true" signature="1965:2126" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="55" lean-forward="false" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+          <folding>
+            <marker date="1519112869252" expanded="false" signature="6:78" ph="..." />
+            <marker date="1519112869252" expanded="true" signature="120:424" ph="{...}" />
+            <marker date="1519112869252" expanded="true" signature="206:282" ph="{...}" />
+            <marker date="1519112869252" expanded="true" signature="337:344" ph="{...}" />
+            <marker date="1519112869252" expanded="true" signature="366:422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519115365532" expanded="true" signature="33:294" ph="{...}" />
+            <marker date="1519115365532" expanded="true" signature="40:107" ph="/// Clave para la dirección IP ... " />
+            <marker date="1519115365532" expanded="true" signature="163:246" ph="/// Variable para amacenar la IP de la Web API ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonGazeCick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="67" column="5" lean-forward="false" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <marker date="1519112469882" expanded="true" signature="6:100" ph="..." />
+            <marker date="1519112469882" expanded="true" signature="145:1957" ph="{...}" />
+            <marker date="1519112469882" expanded="true" signature="149:232" ph="/// Tiempo que tardará en activarse el temporizador. ... " />
+            <marker date="1519112469882" expanded="true" signature="270:347" ph="/// Indica si el puntero está sobre el objeto. ... " />
+            <marker date="1519112469882" expanded="true" signature="380:451" ph="/// Indica si la acción se ha realizado. ... " />
+            <marker date="1519112469882" expanded="true" signature="503:510" ph="{...}" />
+            <marker date="1519112469882" expanded="true" signature="565:1230" ph="{...}" />
+            <marker date="1519112469882" expanded="true" signature="569:810" ph="/* Si el usuario está mirando el objeto y el temporizador ... */" />
+            <marker date="1519112469882" expanded="true" signature="935:1227" ph="{...}" />
+            <marker date="1519112469882" expanded="true" signature="1012:1101" ph="/* Desactivamos el contador de tiempo del cursor, para ... */" />
+            <marker date="1519112469882" expanded="true" signature="1234:1372" ph="/// Método que se llamará desde el EventTrigger PointerEnter (Cuando miremos el objeto que cambia de color) ... " />
+            <marker date="1519112469882" expanded="true" signature="1398:1676" ph="{...}" />
+            <marker date="1519112469882" expanded="true" signature="1680:1770" ph="/// Método que llamaremos desde el EventTrigger PointerExit ... " />
+            <marker date="1519112469882" expanded="true" signature="1794:1955" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <marker date="1519115766344" expanded="false" signature="6:100" ph="..." />
+            <marker date="1519115766344" expanded="true" signature="151:485" ph="{...}" />
+            <marker date="1519115766344" expanded="true" signature="200:421" ph="{...}" />
+            <marker date="1519115766344" expanded="true" signature="476:483" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding>
+            <marker date="1519115562889" expanded="true" signature="6:100" ph="..." />
+            <marker date="1519115562889" expanded="true" signature="141:936" ph="{...}" />
+            <marker date="1519115562889" expanded="true" signature="145:233" ph="/// Objeto con la dirección IP introducida por el usuario ... " />
+            <marker date="1519115562889" expanded="true" signature="304:311" ph="{...}" />
+            <marker date="1519115562889" expanded="true" signature="366:373" ph="{...}" />
+            <marker date="1519115562889" expanded="true" signature="376:599" ph="/// Método que se ejecuta cuando se pulsa el botón save ... " />
+            <marker date="1519115562889" expanded="true" signature="620:934" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SetButtonText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="51" lean-forward="false" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <marker date="1519117596799" expanded="true" signature="6:100" ph="..." />
+            <marker date="1519117596799" expanded="true" signature="144:408" ph="{...}" />
+            <marker date="1519117596799" expanded="true" signature="239:291" ph="{...}" />
+            <marker date="1519117596799" expanded="true" signature="346:353" ph="{...}" />
+            <marker date="1519117596799" expanded="true" signature="375:406" ph="{...}" />
           </folding>
         </state>
       </provider>

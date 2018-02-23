@@ -360,8 +360,11 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="ButtonClearConsoleScript.cs" t="Include" />
           <e p="ButtonClick.cs" t="Include" />
+          <e p="ButtonDeleteConsoleScript.cs" t="Include" />
           <e p="ButtonGazeCick.cs" t="Include" />
+          <e p="ClientButtonScript.cs" t="Include" />
           <e p="ConfigurationScript.cs" t="Include" />
           <e p="CustomPointerTimer.cs" t="Include" />
           <e p="GameManager.cs" t="Include" />

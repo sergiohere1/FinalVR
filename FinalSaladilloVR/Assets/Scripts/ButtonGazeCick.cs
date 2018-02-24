@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿///////////////////////////////////////////
+// Práctica: SaladilloVR
+// Alumno/a: Sergio García-Consuegra Berná
+// Curso: 2017/2018
+// Fichero: ButtonGazeClick.cs
+///////////////////////////////////////////
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

@@ -1,5 +1,5 @@
 ﻿///////////////////////////////////////////
-// Práctica: Pinball
+// Práctica: SaladilloVR
 // Alumno/a: Sergio García-Consuegra Berná
 // Curso: 2017/2018
 // Fichero: CustomPointerTimer.cs

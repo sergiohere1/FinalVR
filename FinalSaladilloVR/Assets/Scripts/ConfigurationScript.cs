@@ -1,10 +1,15 @@
-﻿using System;
+﻿///////////////////////////////////////////
+// Práctica: SaladilloVR
+// Alumno/a: Sergio García-Consuegra Berná
+// Curso: 2017/2018
+// Fichero: ConfigurationScript.cs
+///////////////////////////////////////////
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UI;
-
 public class ConfigurationScript : MonoBehaviour
 {
 	/// <summary>

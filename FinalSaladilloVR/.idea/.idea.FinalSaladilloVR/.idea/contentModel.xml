@@ -368,6 +368,7 @@
           <e p="ConfigurationScript.cs" t="Include" />
           <e p="CustomPointerTimer.cs" t="Include" />
           <e p="GameManager.cs" t="Include" />
+          <e p="LoadButtonScript.cs" t="Include" />
           <e p="MoveJoystick.cs" t="Include" />
           <e p="MovementDisc.cs" t="Include" />
           <e p="PlayAnimation.cs" t="Include" />

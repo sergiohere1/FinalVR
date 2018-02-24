@@ -1,4 +1,10 @@
-﻿using System;
+﻿///////////////////////////////////////////
+// Práctica: SaladilloVR
+// Alumno/a: Sergio García-Consuegra Berná
+// Curso: 2017/2018
+// Fichero: SaveScript.cs
+///////////////////////////////////////////
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

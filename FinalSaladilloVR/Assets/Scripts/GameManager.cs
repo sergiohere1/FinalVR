@@ -1,4 +1,9 @@
-﻿
+﻿///////////////////////////////////////////
+// Práctica: SaladilloVR
+// Alumno/a: Sergio García-Consuegra Berná
+// Curso: 2017/2018
+// Fichero: GameManager.cs
+///////////////////////////////////////////
 
 public static class GameManager
 {
